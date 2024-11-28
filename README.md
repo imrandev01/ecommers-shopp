@@ -24,7 +24,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/ecommerce-shop.git  
+git clone https://github.com/imrandev01/ecommerce-shop.git  
 Navigate to the project directory:
 
 bash
@@ -80,9 +80,3 @@ git push origin feature-name
 Create a pull request.
 License
 This project is licensed under the MIT License.
-
-Contact
-For questions or feedback, feel free to reach out:
-
-Email: your-email@example.com
-GitHub: your-username
